@@ -6,7 +6,5 @@ export const Container = styled.header`
  width: 100%;
  background-image: url(${Img1});
  background-size: cover;
- justify-content: space-around;
- display: flex;
 
 `

@@ -3,7 +3,7 @@ body{
     margin: 0;
     box-sizing: border-box;  
     background-color: #e6ecf0;
-    font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+    font-family: courier,arial,helvetica;
     text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
     text-decoration: none;

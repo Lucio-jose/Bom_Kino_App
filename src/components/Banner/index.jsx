@@ -9,7 +9,7 @@ return(
      <Container>
       <Head/>
       <div>
-        <div><h3>Ola Mundo</h3></div>
+        <div><h1>Ola Mundo</h1></div>
       </div>
     </Container>
     </>
